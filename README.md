@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi , I am Paritosh Singh 👋
 
 - 🔭 I’m currently working on Competitive Programming
 - 🌱 I’m currently learning Machine Learning
